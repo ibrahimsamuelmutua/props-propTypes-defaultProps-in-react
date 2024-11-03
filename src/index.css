@@ -1,0 +1,12 @@
+.student{
+  margin:20px;
+  border:1px solid hsl(0, 0%, 80%);
+  border-radius:8px;
+  padding:10px 20px;
+  box-shadow:0 4px 8px rgba(0,0,0,0.3);
+}
+
+.student p{
+  margin:0;
+  font-family: arial, sans serif;
+}
